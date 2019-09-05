@@ -13,8 +13,8 @@ A janky, basic version of [TankTrouble](http://tanktrouble.com) created during a
 * `\`: respawn
 * `` ` ``: open a REPL
 * Player 1:
- * `Q`: shoot
- * `ESDF`: move
+    * `Q`: shoot
+    * `ESDF`: move
 * Player 2:
- * `M`: shoot
- * `arrow keys` move
+    * `M`: shoot
+    * `arrow keys` move
